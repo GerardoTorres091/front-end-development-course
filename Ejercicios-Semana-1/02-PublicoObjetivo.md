@@ -1,0 +1,5 @@
+# Público objetivo
+
+| Demografía                                                                                            | Ubicación          | Psicografía                                                                           | Identificadores                                              |
+|-------------------------------------------------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| Abarca todo el territorio mexicano, gente desde 18 años, que ya pueden buscar asesoramiento jurídico. | Republica Mexicana | Cualquier tipo de persona en mayor de 18 años que requiera de ayuda en algún proceso. | Se puede llegar mediante redes sociales, correo electrónico. |
